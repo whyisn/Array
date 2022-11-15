@@ -7,6 +7,7 @@ Lalu ke 5 nilai array yang kita inputkan tadi akan dijumlahkan dan didapati hasi
 
 Deskripsi Array 2D
 -> Array 2D adalah sebutan untuk array yang penomoran index-nya menggunakan 2 buah angka.
+
 Program 2D yang saya buat ini, saya membuat bentuk matriks, menggunakan 3 baris dan 4 kolom. 
 Pertama kita akan menginputkan baris pertama sebanyak 4 kolom, lalu baris ke 2 dengan 4 kolom, baris ke 3 dengan 4 kolom. 
 Dan semua inputan tadi akan tampil di layar layaknya matriks.
